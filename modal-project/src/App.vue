@@ -37,8 +37,7 @@ export default {
   data() {
     return {
       title: "My First View App :)",
-      // theme: "sale",
-      theme: "test",
+      theme: "sale",
       showModal: false,
       loginRegister: false
     }
